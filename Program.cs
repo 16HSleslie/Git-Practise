@@ -10,6 +10,7 @@ namespace Git_hub_1
             Console.WriteLine("Hello i'm Harry");
             Console.WriteLine("Hello I'm Liz");
             Console.WriteLine("hello im anson");
+            Console.WriteLine("我是Ruel\n我爱篮球");
         }
     }
 }
